@@ -16,7 +16,7 @@ Cloud MQTT server with certificate file (or local MQTT server)
 2. Install the required libraries using pip:
 > pip install paho-mqtt cvzone opencv-python ssl
 3. Open the config.py file and update the MQTT_SERVER, MQTT_PORT, MQTT_USERNAME, MQTT_PASSWORD, MQTT_TOPIC, MQTT_CERT_FILE, and GESTURE_TIME settings to match your MQTT server and certificate file information.
-4. python smart_curtain.py
+4. python smart_curtain_ff.py
 
 # Usage
 
